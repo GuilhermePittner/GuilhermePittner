@@ -1,4 +1,4 @@
-## Welcome to my profile. I was wondering when you would show up. 👀
+## Welcome to my profile. I was wondering when You would show up. 👀
 
 ### ⏳ I've been developing software for about 3 years. Languages & Frameworks I'm comfortable with:
 
