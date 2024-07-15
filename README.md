@@ -1,6 +1,6 @@
 ## Welcome to my profile. I was wondering when you would show up. 👀
 
-### I've been developing software for about 3 years. Languages & Frameworks I'm comfortable with:
+### ⏳ I've been developing software for about 3 years. Languages & Frameworks I'm comfortable with:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -13,7 +13,7 @@
 </div>
 
 
-### Looking for more? You can reach me at:
+### 📬 Looking for more? You can reach me at:
 <div>
   <a href="" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   <a href="mailto:guilhermepittner123@gmail.com" target="_blank"> <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
