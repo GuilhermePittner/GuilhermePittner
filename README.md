@@ -1,6 +1,6 @@
 ## Welcome to my profile. I was wondering when You would show up. 👀
 
-### ⏳ I've been developing software for about 3 years. Languages & Frameworks I'm comfortable with:
+### ⏳ I've been developing software for about 3 years. Languages / Frameworks / Tools I'm comfortable with:
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
