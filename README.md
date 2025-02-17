@@ -14,14 +14,14 @@
 
 
 ### 📬 Looking for more? You can reach me at:
-<div>
+<div style="margin-bottom: 2em;">
   <a href="https://www.linkedin.com/in/guilherme-pittner/" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a>
   <a href="mailto:guilhermepittner123@gmail.com" target="_blank"> <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /> </a>
 </div>
 
 
 <div style="margin-top: 2em;">
-  <img src="https://flagcdn.com/w40/at.png" width="20" style="vertical-align: middle;"/> Österreich | <img src="https://flagcdn.com/w40/br.png" width="20" style="vertical-align: middle;"/> Brasil
+  <img src="https://flagcdn.com/w40/at.png" width="20" style="vertical-align: middle;"/><img src="https://flagcdn.com/w40/br.png" width="20" style="vertical-align: middle;"/>
 </div>
   
 
