@@ -21,7 +21,7 @@
 
 
 <div style="margin-top: 2em;">
-  <img src="https://flagcdn.com/w40/at.png" width="20" style="vertical-align: middle;"/><img src="https://flagcdn.com/w40/br.png" width="20" style="vertical-align: middle;"/>
+  <img src="https://flagcdn.com/w40/at.png" width="20" style="vertical-align: middle;"/> <img src="https://flagcdn.com/w40/br.png" width="20" style="vertical-align: middle;"/>
 </div>
   
 
