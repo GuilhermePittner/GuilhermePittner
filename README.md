@@ -19,4 +19,9 @@
   <a href="mailto:guilhermepittner123@gmail.com" target="_blank"> <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /> </a>
 </div>
 
-<img src="https://flagcdn.com/w40/at.png" width="30"/> Österreich | <img src="https://flagcdn.com/w40/br.png" width="30"/> Brasil
+
+<div style="margin-top: 2em;">
+  <img src="https://flagcdn.com/w40/at.png" width="20" style="vertical-align: middle;"/> Österreich | <img src="https://flagcdn.com/w40/br.png" width="20" style="vertical-align: middle;"/> Brasil
+</div>
+  
+
