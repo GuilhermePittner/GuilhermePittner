@@ -1,6 +1,6 @@
 ## Welcome to my profile. I was wondering when You would show up. 👀
 
-### ⏳ I've been developing software for about 3 years. Languages / Frameworks / Tools I'm comfortable with:
+### ⏳ I've been developing software for about 4 years. Languages / Frameworks / Tools I'm comfortable with:
 
 ### 🖥️ Front-end
 <div style="display: flex; flex-direction: row; justify-content: flex-start; gap: 10px;">
