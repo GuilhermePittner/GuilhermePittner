@@ -15,12 +15,14 @@
 
 ### ⚙️ Back-end
 <div style="display: flex; flex-direction: row; justify-content: flex-start; gap: 10px;">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ### 📊 Data
 <div style="display: flex; flex-direction: row; justify-content: flex-start; gap: 10px;">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
@@ -30,5 +32,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermepittner123@gmail.com)
 
 ![Austria](https://flagcdn.com/w40/at.png) ![Brazil](https://flagcdn.com/w40/br.png)
-  
-
